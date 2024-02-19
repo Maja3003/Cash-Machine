@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1678751820 source:i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\reader.cpp
+	<iostream>
+	"reader.h"
+
+1678753612 source:i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\screen.cpp
+	<iostream>
+	"screen.h"
+	<stdlib.h>
+	<Windows.h>
+
+1678757162 source:i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\bd.cpp
+	"bd.h"
+
+1678750489 i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\bd.h
+
+1678757144 source:i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\engine.cpp
+	<iostream>
+	<stdlib.h>
+	<Windows.h>
+	"engine.h"
+
+1678751474 i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\engine.h
+	"bd.h"
+	"reader.h"
+	"screen.h"
+
+1678751368 i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\reader.h
+
+1678756511 i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\screen.h
+
+1677847579 source:i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\main.cpp
+	<iostream>
+	"engine.h"
+
+1678757162 source:e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\bd.cpp
+	"bd.h"
+
+1678750489 e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\bd.h
+
+1678757144 source:e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\engine.cpp
+	<iostream>
+	<stdlib.h>
+	<Windows.h>
+	"engine.h"
+
+1678751474 e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\engine.h
+	"bd.h"
+	"reader.h"
+	"screen.h"
+
+1678757264 source:e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\main.cpp
+	<iostream>
+	"engine.h"
+
+1678751820 source:e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\reader.cpp
+	<iostream>
+	"reader.h"
+
+1678751368 e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\reader.h
+
+1681464356 source:e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\screen.cpp
+	<iostream>
+	"screen.h"
+	<stdlib.h>
+	<Windows.h>
+
+1678756511 e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\screen.h
+
+1677629342 source:e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\socket.cpp
+	"socket.h"
+
+1677505871 e:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\socket.h
+
+1677629342 source:i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\socket.cpp
+	"socket.h"
+
+1677505871 i:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\socket.h
+
+1677629191 source:f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\bd.cpp
+	"bd.h"
+
+1677629194 f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\bd.h
+
+1677415337 source:f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\main.cpp
+	<iostream>
+
+1677629310 source:f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\reader.cpp
+	"reader.h"
+
+1677506703 f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\reader.h
+
+1677629201 source:f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\screen.cpp
+	"screen.h"
+
+1677507078 f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\screen.h
+
+1677849270 source:f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\socket.cpp
+	"socket.h"
+
+1677848035 f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\socket.h
+
+1677770459 source:f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\engine.cpp
+	"engine.h"
+
+1677846096 f:\studia\jêzyki zorientowane obiektowo\bankomat\bankomat\engine.h
+
+1678757162 source:c:\users\maja\desktop\bankomat\bankomat\bd.cpp
+	"bd.h"
+
+1678750489 c:\users\maja\desktop\bankomat\bankomat\bd.h
+
+1678757144 source:c:\users\maja\desktop\bankomat\bankomat\engine.cpp
+	<iostream>
+	<stdlib.h>
+	<Windows.h>
+	"engine.h"
+
+1678751474 c:\users\maja\desktop\bankomat\bankomat\engine.h
+	"bd.h"
+	"reader.h"
+	"screen.h"
+
+1678751368 c:\users\maja\desktop\bankomat\bankomat\reader.h
+
+1678756511 c:\users\maja\desktop\bankomat\bankomat\screen.h
+
+1678757264 source:c:\users\maja\desktop\bankomat\bankomat\main.cpp
+	<iostream>
+	"engine.h"
+
+1685189590 source:c:\users\maja\desktop\bankomat\bankomat\reader.cpp
+	<iostream>
+	"reader.h"
+
+1685189593 source:c:\users\maja\desktop\bankomat\bankomat\screen.cpp
+	<iostream>
+	"screen.h"
+	<stdlib.h>
+	<Windows.h>
+
+1678753562 source:d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\bd.cpp
+	"bd.h"
+
+1678746889 d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\bd.h
+
+1678753544 source:d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\engine.cpp
+	<iostream>
+	<stdlib.h>
+	<Windows.h>
+	"engine.h"
+
+1678747874 d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\engine.h
+	"bd.h"
+	"reader.h"
+	"screen.h"
+
+1678747768 d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\reader.h
+
+1678752911 d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\screen.h
+
+1678753664 source:d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\main.cpp
+	<iostream>
+	"engine.h"
+
+1685185990 source:d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\reader.cpp
+	<iostream>
+	"reader.h"
+
+1685186730 source:d:\studia\semestr 4\programowanie obiektowe\bankomat\bankomat\screen.cpp
+	<iostream>
+	"screen.h"
+	<stdlib.h>
+	<Windows.h>
+
